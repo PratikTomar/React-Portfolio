@@ -123,8 +123,20 @@
     gap: 0;
     padding: 12px;
   }
+
+  .experienceItem li {
+    font-size: 16px;
+  }
   .experienceItem img {
-    width: 92px;
-    height: 92px;
+    width: 56px;
+    height: 60px;
+  }
+
+  .experienceItemDetails h3 {
+    font-size: 22px;
+  }
+
+  .experienceItemDetails p {
+    font-size: 18px;
   }
 }

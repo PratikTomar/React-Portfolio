@@ -1,7 +1,7 @@
 [
   {
     "title": "Meesho",
-    "description": "An E-commerce application which has seamless e-commerce flow.",
+    "description": "An E-commerce application which has seamless E-commerce flow, Authentication, Authorization with Protected Routes.",
     "skills": [
       "React",
       "Context API",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Learndemy",
-    "description": "Full-stack MERN app which is clone of Udemy.",
+    "description": "MERN app which is clone of Udemy has seamless E-commerce flow, Authentication, Authorization with Protected Routes.",
     "skills": [
       "React",
       "Express",
@@ -38,11 +38,21 @@
     "source": "https://github.com/PratikTomar/Task-Planner"
   },
   {
+    "title": "Brewopedia",
+    "description": "Web app that fetches and displays a list of brewinfo from the Openbrewerydb. The app supports pagination, search brewlist and allows users to customize the number of brewlist displayed per page.",
+    "skills": [
+      "React"
+    ],
+    "demo": "https://beeropedia---beer-encyclopedia.web.app/",
+    "source": "https://github.com/PratikTomar/Brewopedia"
+  },
+  {
     "title": "Trackiii",
     "description": "Job tracking app featuring drag-and-drop, job creation, editing, and detailed viewing.",
     "skills": [
       "React",
       "Zustand",
+      "TypeScript",
       "Ant design",
       "React beautiful DnD"
     ],
@@ -51,7 +61,7 @@
   },
   {
     "title": "Tic Tac Toe Legends",
-    "description": "Tic Tac Toe application built with React JS.",
+    "description": "Classic Tic Tac Toe game using React. The game allows two players to take turns marking the spaces in a 3x3 grid. The first player to align three of their marks in a row, column, or diagonal wins the game.",
     "skills": [
       "React"
     ],
@@ -60,7 +70,7 @@
   },
   {
     "title": "Dice Dash",
-    "description": "Random dice generator application built with React JS.",
+    "description": "Dice Dash Game, a web application that allows you to roll a virtual six-sided die. This application provides an interactive and immersive experience, complete with a realistic thrown animation.",
     "skills": [
       "React"
     ],
@@ -69,16 +79,16 @@
   },
   {
     "title": "RPS Royale",
-    "description": "Rock Paper Scissor game where you can play with computer.",
+    "description": "Rock, Paper, Scissors Royale is a simple web-based game where you can play the classic Rock, Paper, Scissors game against the computer.",
     "skills": [
-      "React JS"
+      "React"
     ],
     "demo": "https://rps-royale-940ea.web.app/",
     "source": "https://github.com/PratikTomar/RPS-Royale"
   },
   {
     "title": "Dashboard",
-    "description": "Dashboard UI Implementaion with React and CSS",
+    "description": "Dashboard UI Implementaion with React and CSS.",
     "skills": [
       "React",
       "UI",
