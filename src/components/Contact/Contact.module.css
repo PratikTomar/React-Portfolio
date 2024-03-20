@@ -55,6 +55,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
   }
 
   .links {
@@ -67,5 +68,11 @@
 
   .text p {
     font-size: 28px;
+    
   }
+
+  .link a {
+font-size: 16px;
+  }
+
 }
