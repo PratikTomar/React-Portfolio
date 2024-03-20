@@ -55,7 +55,7 @@
     "skills": [
       "React"
     ],
-    "demo": "https://www.example.com",
+    "demo": "https://tic-tac-toe-legends.web.app/",
     "source": "https://github.com/PratikTomar/Tic-Tac-Toe"
   },
   {
@@ -94,7 +94,7 @@
       "React",
       "UI"
     ],
-    "demo": "https://dashboard-ui-2f130.web.app/",
+    "demo": "https://rick-and-morty-web-app.web.app/",
     "source": "https://github.com/PratikTomar/Rick-and-Morty-Encyclopedia"
   }
 ]
