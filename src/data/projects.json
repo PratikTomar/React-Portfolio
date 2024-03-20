@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Meesho",
+    "description": "An E-commerce application which has seamless e-commerce flow.",
+    "skills": [
+      "React",
+      "Context API",
+      "Fake Store API"
+    ],
+    "demo": "https://meesho-shopping-8c01c.web.app/",
+    "source": "https://github.com/PratikTomar/Meesho-Shopping"
+  },
+  {
+    "title": "Learndemy",
+    "description": "Full-stack MERN app which is clone of Udemy.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "TypeScript",
+      "Redux Toolkit",
+      "Redux Saga",
+      "MERN"
+    ],
+    "demo": "https://learndemy.onrender.com/",
+    "source": "https://github.com/PratikTomar/LearnDemy-with-React"
+  },
+  {
+    "title": "Taskee",
+    "description": "MERN app with categorization, prioritization, CRUD operations, and advanced filtering.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MERN"
+    ],
+    "demo": "https://task-planner-uqdm.onrender.com/",
+    "source": "https://github.com/PratikTomar/Task-Planner"
+  },
+  {
+    "title": "Trackiii",
+    "description": "Job tracking app featuring drag-and-drop, job creation, editing, and detailed viewing.",
+    "skills": [
+      "React",
+      "Zustand",
+      "Ant design",
+      "React beautiful DnD"
+    ],
+    "demo": "https://trackiii.web.app/",
+    "source": "https://github.com/PratikTomar/Kanban-Jobtracker"
+  },
+  {
+    "title": "Tic Tac Toe Legends",
+    "description": "Tic Tac Toe application built with React JS.",
+    "skills": [
+      "React"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/PratikTomar/Tic-Tac-Toe"
+  },
+  {
+    "title": "Dice Dash",
+    "description": "Random dice generator application built with React JS.",
+    "skills": [
+      "React"
+    ],
+    "demo": "https://dice-dash.web.app/",
+    "source": "https://github.com/PratikTomar/Dice-Dash"
+  },
+  {
+    "title": "RPS Royale",
+    "description": "Rock Paper Scissor game where you can play with computer.",
+    "skills": [
+      "React JS"
+    ],
+    "demo": "https://rps-royale-940ea.web.app/",
+    "source": "https://github.com/PratikTomar/RPS-Royale"
+  },
+  {
+    "title": "Dashboard",
+    "description": "Dashboard UI Implementaion with React and CSS",
+    "skills": [
+      "React",
+      "UI",
+      "CSS"
+    ],
+    "demo": "https://dashboard-ui-2f130.web.app/",
+    "source": "https://github.com/PratikTomar/Dashboard-UI"
+  },
+  {
+    "title": "Rick Morty Encyclopedia",
+    "description": "Rick Morty Encyclopedia built with Rick Morty API which has pagination and search feature",
+    "skills": [
+      "React",
+      "UI"
+    ],
+    "demo": "https://dashboard-ui-2f130.web.app/",
+    "source": "https://github.com/PratikTomar/Rick-and-Morty-Encyclopedia"
+  }
+]
