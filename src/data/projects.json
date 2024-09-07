@@ -19,6 +19,7 @@
       "Node",
       "TypeScript",
       "Redux Toolkit",
+      "React Router",
       "Redux Saga",
       "MERN"
     ],
@@ -26,12 +27,28 @@
     "source": "https://github.com/PratikTomar/LearnDemy-with-React"
   },
   {
-    "title": "Taskee",
-    "description": "MERN app with categorization, prioritization, CRUD operations, and advanced filtering.",
+    "title": "Contact Cloud",
+    "description": "Full-stack application that allows users to manage their contacts. Users can create, view, edit, and delete contacts, each of which is associated with a specific user.",
     "skills": [
       "React",
       "Express",
       "Node",
+      "MongoDB",
+      "React Router",
+      "React Toastify",
+      "MERN"
+    ],
+    "demo": "https://contactcloud-mern-37p5.onrender.com/",
+    "source": "https://github.com/PratikTomar/ContactCloud-MERN"
+  },
+  {
+    "title": "Taskee",
+    "description": "MERN app with categorization, prioritization, CRUD operations, advanced filtering and Dark mode.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB",
       "MERN"
     ],
     "demo": "https://task-planner-uqdm.onrender.com/",
@@ -41,7 +58,8 @@
     "title": "Brewopedia",
     "description": "Web app that fetches and displays a list of brewinfo from the Openbrewerydb. The app supports pagination, search brewlist and allows users to customize the number of brewlist displayed per page.",
     "skills": [
-      "React"
+      "React",
+      "Openbrewerydb API"
     ],
     "demo": "https://beeropedia---beer-encyclopedia.web.app/",
     "source": "https://github.com/PratikTomar/Brewopedia"
@@ -87,6 +105,20 @@
     "source": "https://github.com/PratikTomar/RPS-Royale"
   },
   {
+    "title": "Contact Cloud JS",
+    "description": "CRUD application enabling users to manage contacts, including creating, editing, and deleting entries",
+    "skills": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Node",
+      "Express",
+      "MongoDB"
+    ],
+    "demo": "https://contactcloud.onrender.com/",
+    "source": "https://github.com/PratikTomar/ContactCloud"
+  },
+  {
     "title": "Dashboard",
     "description": "Dashboard UI Implementaion with React and CSS.",
     "skills": [
@@ -99,7 +131,7 @@
   },
   {
     "title": "Rick Morty Encyclopedia",
-    "description": "Rick Morty Encyclopedia built with Rick Morty API which has pagination and search feature",
+    "description": "Rick Morty Encyclopedia built with Rick Morty API which has pagination and search feature.",
     "skills": [
       "React",
       "UI"

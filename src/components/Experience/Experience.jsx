@@ -2,9 +2,12 @@ import React from "react";
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import experience from "../../data/experience.json";
-import OrgImage from "../../assets/experience/Publicis_Sapient.png";
+import OrgImage1 from "../../assets/experience/Publicis_Sapient.png";
+import OrgImage2 from "../../assets/experience/Accenture.png";
 
 import removeMiddleSpaces from "../../utils";
+
+const OrgImages = [OrgImage1, OrgImage2];
 
 const Experience = () => {
   return (
@@ -21,14 +24,16 @@ const Experience = () => {
                 ></img>
               </div>
               <p>{skill.title}</p>
-        
             </div>
           ))}
         </div>
         <ul className={styles.experience}>
           {experience.map((experienceItem, id) => (
             <li key={id} className={styles.experienceItem}>
-              <img src={OrgImage} alt={`${experienceItem.organisation} Logo`} />
+              <img
+                src={OrgImages[id]}
+                alt={`${experienceItem.organisation} Logo`}
+              />
               <div className={styles.experienceItemDetails}>
                 <h3>{`${experienceItem.role}, ${experienceItem.organisation}`}</h3>
                 <p>{`${experienceItem.startDate} - ${experienceItem.endDate}`}</p>

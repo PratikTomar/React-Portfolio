@@ -9,5 +9,17 @@
       "Curated and maintained a robust library of reusable components, streamlining development processes and boosting efficiency.",
       "Proactively tackled technical challenges, optimizing application performance and elevating user satisfaction."
     ]
+  },
+  {
+    "role": "Custom Software Engineer Sr Analyst",
+    "organisation": "Accenture PLC",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed scalable, secure web applications, enhancing patient data management and healthcare service delivery across US Fortune 500 Healthcare Firm.",
+      "Implemented reusable component libraries and design systems, streamlining the development process and ensuring consistency across multiple projects and initiatives.",
+      "Implemented code-splitting, lazy loading, and image optimization techniques to optimize performance.",
+      "Collaborated with cross-functional teams to integrate RESTful APIs, ensuring seamless data flow between frontend and backend systems."
+    ]
   }
 ]
